@@ -1,0 +1,47 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nttusa.santaehatever.com" resolutions="1x" timestamp="1512318304274">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3863520128" ref="index"/>
+    <file name="nomq_index.css" crc="3963746859" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="貼上的-svg-1326429x474.svg" crc="402656852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 1326429x474_poster_.png" crc="398884995" ref="index"/>
+    <file name="logo.png" crc="180319121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的-svg-2048839x283.svg" crc="4160039554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 2048839x283_poster_.png" crc="4079423197" ref="index"/>
+    <file name="貼上的-svg-1104976x282.svg" crc="215242766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 1104976x282_poster_.png" crc="3793571485" ref="index"/>
+    <file name="ccc.jpg" crc="535554726" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ccc2160x2880.jpg" crc="235529383" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4086458067" seo="true" mt="1511898786678" redirect="true"/>
+</manifest>
